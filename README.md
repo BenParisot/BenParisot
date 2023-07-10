@@ -1,7 +1,7 @@
 ![ben parisot header image](imgs/bp-header1.gif)
-![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png#wave)
 
-# Howdy! I'm Ben Parisot. 
+
+# :wave: Howdy! I'm Ben Parisot. 
 
 I'm an experienced full-stack developer and engineering manager. I work primarily in JavaScript, React, Node, Rails, and Python. I currently manage the engineering team at Planet Argon, a Ruby-on-Rails development agency. [Go check out our work here!](https://www.planetargon.com/work)
 
@@ -18,15 +18,3 @@ In my spare time I enjoy cooking dinner with my husband and friends, creating re
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenParisot)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenParisot)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenParisot)
-
-<style>
-img[src*="#wave"] {
-        position: relative;
-        border: 2px solid white;
-        border-radius: 90%;
-        padding: 15px;
-        background: white;
-        margin-top: -55px;
-        margin-left: 25px;
-    }
-</style>
