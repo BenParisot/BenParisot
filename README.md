@@ -1,6 +1,10 @@
 ![ben parisot header image](imgs/bp-header1.gif)
+![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png#wave)
 
-👋👋👋 Hello! I'm Ben Parisot. I'm an experienced full-stack developer and engineering manager. I work primarily in JavaScript, React, and Node, though I've messed around plenty in Rails and Python. 
+# Howdy! I'm Ben Parisot. 
+
+I'm an experienced full-stack developer and engineering manager. I work primarily in JavaScript, React, Node, Rails, and Python. I currently manage the engineering team at Planet Argon, a Ruby-on-Rails development agency. [Go check out our work here!](https://www.planetargon.com/work)
+
 Some of my most used and most valuable skill sets include:
 - :technologist: Full-stack development (JavaScript, React, Node.js, Express.js, Redux, GraphQL, MongoDB, )
 - :test_tube: TDD and code coverage advocacy (Jest, Cypress, CodeCov, CodeClimate)
@@ -9,22 +13,20 @@ Some of my most used and most valuable skill sets include:
 - :chart_with_upwards_trend: Data-driven search and social marketing (A/B testing, Google Ads, Semrush, Moz, Power BI)
 - :busts_in_silhouette: Stakeholder management (request prioritization, ticket estimation, sprint report generation, product and design team communication )
 
-In my spare time I enjoy cooking dinner with my husband and some friends, hiking with our dogs, and reading comics. I'm currently learning to play the piano and hope to one day write a novel. :two_men_holding_hands: :dog2: :musical_keyboard: :writing_hand:
+In my spare time I enjoy cooking dinner with my husband and friends, creating reactive particle systems in TouchDesigner, hiking with my dogs, and reading comics. I'm currently learning to play the piano and hope to one day write a novel. :two_men_holding_hands: :dog2: :musical_keyboard: :writing_hand:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenParisot)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenParisot)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenParisot)
 
-<!--
-**BenParisot/BenParisot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+<style>
+img[src*="#wave"] {
+        position: relative;
+        border: 2px solid white;
+        border-radius: 90%;
+        padding: 15px;
+        background: white;
+        margin-top: -55px;
+        margin-left: 25px;
+    }
+</style>
