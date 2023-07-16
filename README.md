@@ -38,6 +38,10 @@ In my spare time I enjoy cooking dinner with my husband and friends, creating re
 - :heartpulse: Improved developer satisfaction by clarifying project requirements, prioritizing and troubleshooting bugs, performing manual QA and providing feedback, and running efficient agile sprints
 - :hugs: Improved company reputation by increasing employee engagement with existing corporate giving and volunteer initiatives
 
+### **`Digital Director @ Roger That Agency,`** *2014 - 2016*
+- :heartpulse: Increased client satisfaction and repeat business by managing end-to-end digital projects, resolving technical issues like email setup and domain transfer, and sourcing top quality and reliable contract designers and developers
+- :chart_with_upwards_trend: Enhanced user experience and increased site traffic by performing post-launch support and regular site optimization
+
 ## Most Used Tools and Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
