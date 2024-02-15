@@ -69,6 +69,7 @@ In my spare time I enjoy cooking dinner with my husband and friends, creating re
 - 🎙️ [Maintainable Software, Episode 134: Documentation Just Needs to be Used Once](https://maintainable.fm/episodes/ben-parisot-documentation-just-needs-to-be-used-once) | Podcast
 - 🎙️ [The Junior Developer Link, Episode 1: Onboarding w/Ben Parisot](https://open.spotify.com/episode/4r0fmC0MwwcRisfxbocDPK?si=rXEWe3SzRpmBt-tx3u0cFA&nd=1) | Podcast
 - 💻 [Yes, Your Non-Tech Experience is Relevant!](https://www.linkedin.com/events/6820835647922802688/) | Webinar
+- 💻 [Pick Your Slice, Not Your Stack](https://www.linkedin.com/events/pickyourslice-notyourstack-howt7153956132154212352/) | Webinar
 - 💻 Evaluating Technical Onboarding, presented by Edify | Webinar / panel discussion (no recording available)
   
 
