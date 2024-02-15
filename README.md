@@ -65,11 +65,11 @@ In my spare time I enjoy cooking dinner with my husband and friends, creating re
 
 ## Podcast, Webinar, and Panel Appearances
 - 🗨️ [AI Portland Inaugural Meetup: Supercharging Your Work with AI](https://www.meetup.com/ai-portland/events/297707853/) | Panel discussion
+- 💻 [Pick Your Slice, Not Your Stack](https://www.linkedin.com/events/pickyourslice-notyourstack-howt7153956132154212352/) | Webinar
 - 💻 [Beyond LeetCode: Alternative Paths to Acing Your Technical Interview](https://www.linkedin.com/events/beyondleetcode-alternativepaths7145877787420033025/) | Webinar
 - 🎙️ [Maintainable Software, Episode 134: Documentation Just Needs to be Used Once](https://maintainable.fm/episodes/ben-parisot-documentation-just-needs-to-be-used-once) | Podcast
 - 🎙️ [The Junior Developer Link, Episode 1: Onboarding w/Ben Parisot](https://open.spotify.com/episode/4r0fmC0MwwcRisfxbocDPK?si=rXEWe3SzRpmBt-tx3u0cFA&nd=1) | Podcast
 - 💻 [Yes, Your Non-Tech Experience is Relevant!](https://www.linkedin.com/events/6820835647922802688/) | Webinar
-- 💻 [Pick Your Slice, Not Your Stack](https://www.linkedin.com/events/pickyourslice-notyourstack-howt7153956132154212352/) | Webinar
 - 💻 Evaluating Technical Onboarding, presented by Edify | Webinar / panel discussion (no recording available)
   
 
