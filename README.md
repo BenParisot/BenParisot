@@ -64,6 +64,8 @@ In my spare time I enjoy cooking dinner with my husband and friends, creating re
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 ## Podcast, Webinar, and Panel Appearances
+- 💻 [Alternate Forms of Neworking](https://www.linkedin.com/events/alternativeformsofnetworking-fi7167754719870877696/) | Webinar
+- 💻 [Technical Collaboration Must-Haves](https://www.linkedin.com/events/technicalcollaborationmust-have7160163316261130240/) | Webinar
 - 🗨️ [AI Portland Inaugural Meetup: Supercharging Your Work with AI](https://www.meetup.com/ai-portland/events/297707853/) | Panel discussion
 - 💻 [Pick Your Slice, Not Your Stack](https://www.linkedin.com/events/pickyourslice-notyourstack-howt7153956132154212352/) | Webinar
 - 💻 [Beyond LeetCode: Alternative Paths to Acing Your Technical Interview](https://www.linkedin.com/events/beyondleetcode-alternativepaths7145877787420033025/) | Webinar
