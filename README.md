@@ -64,6 +64,8 @@ In my spare time I enjoy cooking dinner with my husband and friends, creating re
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 ## Podcast, Webinar, and Panel Appearances
+- 🎙️ [The Leadership Link, Episode 09: Tracking and improving developer experience](https://youtu.be/mQHq5EOKUUM?si=ZB2ZzlSot9xFksN3) | Podcast
+- 🎙️ [The DORA Lab, Episode 03: DORA & the SPACE Framework](https://grocto.substack.com/p/the-dora-lab-03-ben-parisot-engineering) | Podcast
 - 🗨️ [Leading Remote Engineering Teams](https://www.crowdcast.io/c/lead-remote-engineers) | Panel discussion
 - 💻 [How Dev-Adjacent Roles Can Get Your Foot in the SWE Door](https://www.linkedin.com/events/howdev-adjacentrolescangetyourf7178131989013704705/) | Webinar
 - 💻 [Alternate Forms of Neworking](https://www.linkedin.com/events/alternativeformsofnetworking-fi7167754719870877696/) | Webinar
