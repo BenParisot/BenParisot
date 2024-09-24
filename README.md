@@ -3,7 +3,7 @@
 
 # :wave: Howdy! I'm Ben Parisot. 
 
-I'm an experienced front-end developer and engineering manager. I work primarily in JavaScript, React, TypeScript, and Node. I currently manage the engineering team at Planet Argon, a Ruby-on-Rails development agency. [Go check out our work here!](https://www.planetargon.com/work)
+I'm an experienced web application developer and engineering manager. I work primarily in JavaScript, React, TypeScript, and Node. I currently manage the engineering team at Planet Argon, a Ruby-on-Rails development agency. [Go check out our work here!](https://www.planetargon.com/work)
 
 Some of my most used and most valuable skill sets include:
 - :technologist: Full-stack development (JavaScript, React, Node.js, Express.js, Redux, GraphQL, MongoDB, )
