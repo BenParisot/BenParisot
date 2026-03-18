@@ -1,8 +1,9 @@
-# :wave: Howdy! I'm Ben Parisot. 
+# :wave: Hi, I'm Ben Parisot. 
 
-I'm an experienced web application developer and engineering manager. I work primarily in JavaScript, React, TypeScript, and Node. I currently manage the engineering team at Planet Argon, a Ruby-on-Rails development agency. [Go check out our work here!](https://www.planetargon.com/work)
+I'm an Engineering Manager and Software Developer with 16 years of experience working on and leading full-stack teams and driving predictable delivery across complex projects and in cross-functional roles. Deep technical foundation in TypeScript, React, Node.js, Next.js, PostgreSQL, and GraphQL. Passionate about building high-trust engineering cultures through transparent feedback, coaching, and strong operating cadence.
 
 Some of my most used and most valuable skill sets include:
+- 🤖 AI & Automation: Multi-agent coding workflows (Claude Code, Cursor, Copilot), MCP server development & integration, custom Skills/plugin creation, AI policy & governance, RAG integrations
 - :technologist: Full-stack development (JavaScript, React, Node.js, Express.js, Redux, GraphQL, MongoDB, )
 - :test_tube: TDD and code coverage advocacy (Jest, Cypress, CodeCov, CodeClimate)
 - :eyes: Site performance monitoring and optimization (Pingdom, New Relic, bottleneck resolution, WCAG compliance, on-page search optimization)
