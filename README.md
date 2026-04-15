@@ -10,6 +10,13 @@ Some of my most used and most valuable skill sets include:
 - 🤝 **Cross-Functional:** Product partnership, customer-facing team collaboration, stakeholder alignment, scope negotiation, ambiguity navigation
 
 ## Experience
+### **`Founding Engineer & CEO @ Scrubby`**, *2025 - present*
+Designed, built, and launched an AI-powered codebase intelligence platform that learns a codebase's architecture, conventions, and hidden dependencies and shares that context with every developer and AI agent on the team.
+- **Product & vision:**  Identified a gap in the AI-assisted development workflow; namely, that AI agents generate code without understanding a codebase's unwritten rules, producing output that compiles but violates team conventions and degrades silently over time. Built Scrubby to close that gap by making institutional engineering knowledge explicit and available to any AI agent or coding assistant.
+- **Technical architecture:** CDesigned and built the full-stack platform using Rails, PostgreSQL, Solid Queue, and Astro, with Docker-based rolling deploys across DigitalOcean and an MCP server delivering real-time codebase context to AI editors like Claude Code, Cursor, and VS Code.
+- **AI/ML pipeline:** Engineered the core intelligence pipeline using programmatic code analysis, git history mining, and the Anthropic API to generate architectural summaries, detect co-change patterns, and surface naming conventions across JavaScript, TypeScript, Python, Ruby, Go, and Java codebases.
+- **Go-to-market:** Led all GTM efforts including brand strategy, SEO optimization, content marketing, and launch planning. Designed, built, and shipped the marketing site and blog.. Managed beta program and early user onboarding.
+
 ### **`Software Engineering Manager @ Planet Argon`**, *2020 - 2026*
 Led and scaled a distributed team of 12 engineers across 5 countries, delivering well-tested and scalable web applications for diverse client portfolios.
 - **People leadership:** Ran biweekly 1:1s, biannual performance reviews, and monthly team growth conversations. Created a public-facing Career Progression Framework that improved transparency for current engineers and prospective hires.
