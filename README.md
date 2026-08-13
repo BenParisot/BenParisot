@@ -10,7 +10,7 @@ Some of my most used and most valuable skill sets include:
 - 🤝 **Cross-Functional:** Product partnership, customer-facing team collaboration, stakeholder alignment, scope negotiation, ambiguity navigation
 
 ## Experience
-### **`Founding Engineer & CEO @ Thruline`**, *2025 - present*
+### **`CEO @ Thruline`**, *2025 - present*
 Designed, built, and launched an AI-powered codebase intelligence platform that learns a codebase's architecture, conventions, and hidden dependencies and shares that context with every developer and AI agent on the team.
 - **Product & vision:**  Identified a gap in the AI-assisted development workflow; namely, that AI agents generate code without understanding a codebase's unwritten rules, producing output that compiles but violates team conventions and degrades silently over time. Built Thruline to close that gap by making institutional engineering knowledge explicit and available to any AI agent or coding assistant.
 - **Technical architecture:** CDesigned and built the full-stack platform using Rails, PostgreSQL, Solid Queue, and Astro, with Docker-based rolling deploys across DigitalOcean and an MCP server delivering real-time codebase context to AI editors like Claude Code, Cursor, and VS Code.
